@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/SpringMVC-0.1.0-SNAPSHOT/WEB-INF/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/com.google.cloud.tools.eclipse.appengine.standard.runtimeClasspathProvider/App Engine Standard Runtime">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/animal-sniffer-annotations-1.18.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/annotations-4.1.1.4.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/api-common-1.8.1.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/auto-value-annotations-1.6.6.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/checker-compat-qual-2.5.5.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/datastore-v1-proto-client-1.6.3.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/error_prone_annotations-2.3.2.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/gax-1.49.1.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/gax-httpjson-0.66.1.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/google-api-client-1.30.4.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/google-auth-library-credentials-0.18.0.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/google-auth-library-oauth2-http-0.18.0.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/google-cloud-core-1.91.3.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/google-cloud-core-http-1.91.3.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/google-cloud-datastore-1.101.0.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/google-http-client-1.32.1.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/google-http-client-appengine-1.32.1.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/google-http-client-jackson2-1.33.0.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/google-http-client-protobuf-1.33.0.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/google-oauth-client-1.30.4.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/grpc-api-1.24.1.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/grpc-context-1.22.1.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/grpc-core-1.24.1.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/gson-2.7.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/guava-28.1-android.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/httpclient-4.5.10.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/httpcore-4.4.12.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/jackson-core-2.10.0.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/javax.annotation-api-1.3.2.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/objectify-6.0.7.jar" sourcepath="libs/objectify-6.0.7.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/opencensus-api-0.24.0.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/opencensus-contrib-grpc-metrics-0.21.0.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/opencensus-contrib-http-util-0.24.0.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/perfmark-api-0.17.0.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/proto-google-cloud-datastore-v1-0.84.0.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/proto-google-common-protos-1.17.0.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/proto-google-iam-v1-0.13.0.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/protobuf-java-3.10.0.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/protobuf-java-util-3.10.0.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/slf4j-api-1.7.29.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/spymemcached-2.12.3.jar"/>
+	<classpathentry kind="lib" path="/Users/abhishekbathiya/Desktop/ux/jar_files/threetenbp-1.3.3.jar"/>
+	<classpathentry kind="output" path="target/SpringMVC-0.1.0-SNAPSHOT/WEB-INF/classes"/>
+</classpath>

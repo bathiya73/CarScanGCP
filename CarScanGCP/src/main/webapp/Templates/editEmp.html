@@ -1,0 +1,17 @@
+<div align="center">
+<h1>  User</h1>
+<div ng-controller="editCtrl">
+	<form name="frm">
+		<input type="hidden" ng-model="user.key.id" /><br>
+		Emp ID <input type="text" ng-model="user.properties.ID"  /><br>
+		First name <input type="text" ng-model="user.properties.firstName" /><br>
+		Last name <input type="text" ng-model="user.properties.lastName" /><br>	
+  		DOB <input type="text" ng-model="user.properties.dob" /><br>
+  		City <input type="text" ng-model="user.properties.city" /><br>
+  		Mobile Number <input type="text" ng-model="user.properties.mobileNumber" /><br>
+		
+		<input type="button" value="submit" ng-click="insertdata()" /><br>
+	</form>
+
+</div>
+</div>

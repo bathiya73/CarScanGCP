@@ -1,0 +1,39 @@
+
+<div class="container">
+	<h1 align="center" >Emp List</h1>
+	<!-- <w3-test-directive></w3-test-directive> -->
+	
+			
+
+
+	<table ng-controller="home" border="1" cellpadding="5" align="center">
+		<tr>
+			<th>ID</th>
+			<th>First Name</th>
+			<th>Last Name</th>
+			<th>DOB</th>
+			<th>City</th>
+			<th>Mobile Number</th>
+			<th>Action</th>
+		</tr>
+		--{{Users}}
+		<tr ng-repeat="user in Users ">
+		
+			<td>{{user.properties.ID}}</td>
+			<td>{{user.properties.firstName}}</td>
+			<td>{{user.properties.lastName}}</td>
+			<td>{{user.properties.dob}}</td>
+			<td>{{user.properties.city}}</td>
+			<td>{{user.properties.mobileNumber}}</td>
+			<!-- <td><label>Traveling<input type="checkbox" ng-model="Emp.Traveling" onclick="return false" ></label></td> -->
+			
+			<td><button ng-click="editUser(user)">Edit</button>
+			<button ng-click="deleteUser(user)">Delete</button></td>
+		</tr>
+
+
+	</table>
+
+
+
+</div>
